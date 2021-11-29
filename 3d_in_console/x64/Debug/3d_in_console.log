@@ -1,0 +1,4 @@
+﻿  3d_in_console.cpp
+E:\Programming\C++\3d_in_console\3d_in_console\3d_in_console.cpp(17,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++\3d_in_console\3d_in_console\3d_in_console.cpp(29,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  3d_in_console.vcxproj -> E:\Programming\C++\3d_in_console\x64\Debug\3d_in_console.exe
